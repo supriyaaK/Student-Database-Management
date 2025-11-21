@@ -1,7 +1,7 @@
-🎓 Student Management System (ServiceNow)
+🎓 Student Database Management System (ServiceNow)
 
-LIVE DEMO:
-https://drive.google.com/file/d/1unaJRU5P5tJbcl22DBJAemYyfAjX4o9G/view?usp=drivesdk
+   LIVE DEMO:
+ https://drive.google.com/file/d/1unaJRU5P5tJbcl22DBJAemYyfAjX4o9G/view?usp=drivesdk
 
 📌 Overview
 
@@ -104,3 +104,10 @@ Student Progress       ->	Records marks, percentage, and remarks for each subjec
 • Configured UI Policies and Client Scripts for form control and field automation.
 
 • Created form views for student data entry and progress tracking.
+
+
+---
+
+📜 License
+
+• This project was developed for educational purposes to demonstrate ServiceNow application development and workflow automation.
